@@ -23,7 +23,7 @@ Make directory and run `npm init` inside the project root, give it a name, accep
 ## NPM packages used for this project
 
 All in one command:
-`npm i ganache-cli mocha solc@0.8.14 fs-extra web3 @truffle/hdwallet-provider`
+`npm i ganache-cli mocha solc@0.4.26 fs-extra web3 @truffle/hdwallet-provider`
 
 - [web3](https://github.com/ChainSafe/web3.js#readme)
 - [solc](https://github.com/ethereum/solc-js#readme)
